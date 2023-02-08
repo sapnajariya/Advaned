@@ -1,0 +1,12 @@
+package in.co.rays.ctl;
+
+import java.util.logging.Logger;
+
+public class Example {
+static Logger log=Logger.getLogger(Example.class.getName());
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

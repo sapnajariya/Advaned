@@ -1,0 +1,64 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+ <display-name>Archetype Created Web Application</display-name>
+   <servlet>
+  	<servlet-name>CookiesExam</servlet-name>
+  	<display-name>CookiesExam</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.bean.CookiesExam</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>getCExam</servlet-name>
+  	<display-name>getCExam</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.bean.getCExam</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>SessionExam</servlet-name>
+  	<display-name>SessionExam</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.bean.SessionExam</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoginCtl</servlet-name>
+  	<display-name>LoginCtl</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.ctl.LoginCtl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>CookiesExam</servlet-name>
+  	<url-pattern>/CookiesExam</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>getCExam</servlet-name>
+  	<url-pattern>/getCExam</url-pattern>
+  </servlet-mapping>
+   
+  <servlet-mapping>
+  	<servlet-name>SessionExam</servlet-name>
+  	<url-pattern>/SessionExam</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LoginCtl</servlet-name>
+  	<url-pattern>/LoginCtl</url-pattern>
+  </servlet-mapping>
+ <error-page>
+  <error-code>404</error-code>
+  <location>/Errorhandler.jsp</location>
+  </error-page>
+  <filter>
+  <filter-name>test</filter-name>
+  <filter-class>in.co.rays.ctl.FrontCtl</filter-class>
+  </filter>
+  <filter-mapping>
+  <filter-name>test</filter-name>
+  <url-pattern>/UserList</url-pattern>
+  </filter-mapping>
+ 
+</web-app>

@@ -1,0 +1,146 @@
+
+Jan 21, 2023 10:38:44.58 NEW SESSION
+Jan 21, 2023 10:38:44.58 [10808:10876:0121/103844.513:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 21, 2023 10:49:09.61 [10808:11696:0121/104909.617:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 21, 2023 10:55:31.80 [8172:568:0121/105531.809:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 23, 2023 14:03:56.20 NEW SESSION
+Jan 23, 2023 14:03:56.20 [3024:10488:0123/140355.880:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 23, 2023 15:13:47.14 NEW SESSION
+Jan 23, 2023 15:13:47.14 [224:9136:0123/151347.138:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 28, 2023 11:14:09.80 NEW SESSION
+Jan 28, 2023 11:14:09.80 [11696:8160:0128/111409.801:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 28, 2023 12:07:18.55 [11696:7760:0128/120718.551:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 12:07:48.10 [11696:7760:0128/120748.102:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 12:08:42.24 [11696:7760:0128/120842.241:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 12:10:34.53 [11696:7760:0128/121034.535:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 12:11:37.21 [11696:3468:0128/121137.218:ERROR:device_event_log_impl.cc(215)] [12:11:37.218] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 28, 2023 12:35:44.61 [9976:10312:0128/123544.618:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 28, 2023 12:42:52.63 [4960:7776:0128/124252.632:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 28, 2023 12:59:23.72 NEW SESSION
+Jan 28, 2023 12:59:23.72 [7948:9864:0128/125923.722:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 28, 2023 21:33:59.44 NEW SESSION
+Jan 28, 2023 21:33:59.44 [8624:2312:0128/213359.446:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 28, 2023 22:08:53.01 [8624:7280:0128/220853.013:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:09:15.12 [8624:7280:0128/220915.124:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:10:13.81 [8624:7280:0128/221013.812:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:11:56.08 [8624:7280:0128/221156.081:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:15:25.54 [8624:7280:0128/221525.545:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:21:19.55 [8624:7280:0128/222119.557:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 28, 2023 22:31:19.57 [8624:7280:0128/223119.576:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Jan 31, 2023 10:54:59.44 NEW SESSION
+Jan 31, 2023 10:54:59.44 [7552:4484:0131/105459.441:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 31, 2023 11:55:53.19 NEW SESSION
+Jan 31, 2023 11:55:53.19 [1008:5704:0131/115553.192:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 31, 2023 12:11:24.30 NEW SESSION
+Jan 31, 2023 12:11:24.30 [2344:9732:0131/121124.296:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 12:19:09.44 [11520:968:0131/121909.442:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 31, 2023 12:50:33.44 NEW SESSION
+Jan 31, 2023 12:50:33.44 [4944:8748:0131/125033.444:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 31, 2023 12:51:28.41 [4944:2472:0131/125128.419:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 01, 2023 11:57:44.34 NEW SESSION
+Feb 01, 2023 11:57:44.34 [10164:7900:0201/115744.343:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 12:03:04.78 [5592:8320:0201/120304.781:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 12:03:12.05 [5592:11188:0201/120312.057:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 12:03:41.57 [5592:11188:0201/120341.577:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 12:04:27.05 [5592:11188:0201/120427.057:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 12:06:04.18 [5592:11188:0201/120604.187:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 12:06:16.08 [5592:11940:0201/120616.084:ERROR:device_event_log_impl.cc(215)] [12:06:16.084] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 01, 2023 12:09:15.53 [5592:11188:0201/120915.539:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 12:27:26.03 [12088:560:0201/122726.039:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 12:29:32.71 [4948:2108:0201/122932.717:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 12:37:16.05 [7548:9132:0201/123716.051:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 12:40:07.73 [8528:6924:0201/124007.732:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Feb 01, 2023 13:23:31.21 NEW SESSION
+Feb 01, 2023 13:23:31.21 [4904:408:0201/132331.213:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 13:23:56.95 [4904:408:0201/132356.954:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 13:24:26.65 [4904:10692:0201/132426.657:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 13:24:49.88 [4904:408:0201/132449.887:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 13:26:46.76 [4904:408:0201/132646.768:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 01, 2023 13:30:16.14 [4904:408:0201/133016.147:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 01, 2023 22:05:16.70 NEW SESSION
+Feb 01, 2023 22:05:16.70 [1828:3648:0201/220516.700:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 22:33:07.64 [10112:7548:0201/223307.647:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 22:42:35.84 [3224:9308:0201/224235.841:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 02, 2023 13:28:05.13 NEW SESSION
+Feb 02, 2023 13:28:05.13 [8344:6432:0202/132805.133:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 02, 2023 14:00:31.75 [10764:2872:0202/140031.755:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 02, 2023 14:01:10.43 [10764:10008:0202/140110.439:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 03, 2023 10:43:38.01 NEW SESSION
+Feb 03, 2023 10:43:38.01 [7172:4888:0203/104337.721:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 03, 2023 11:12:36.99 [1396:4844:0203/111236.989:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 03, 2023 11:46:39.23 [1392:7024:0203/114639.234:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 03, 2023 12:14:05.06 NEW SESSION
+Feb 03, 2023 12:14:05.06 [8416:12828:0203/121405.060:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:14:34.49 [8416:12828:0203/121434.495:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:14:59.97 [8416:12240:0203/121459.971:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 03, 2023 12:15:32.56 [8416:12828:0203/121532.568:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:17:31.71 [8416:12828:0203/121731.711:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:20:18.74 [4680:10172:0203/122018.749:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:20:39.42 [4680:10172:0203/122039.419:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:21:14.10 [4680:8504:0203/122114.104:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 03, 2023 12:21:29.22 [4680:10172:0203/122129.226:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:23:26.29 [4680:10172:0203/122326.293:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:26:30.91 [4680:10172:0203/122630.914:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 03, 2023 12:27:36.27 [4680:10172:0203/122736.277:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:29:39.39 [4680:10172:0203/122939.392:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 03, 2023 12:29:45.30 [4680:10172:0203/122945.309:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 03, 2023 12:35:31.70 [4680:10172:0203/123531.708:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2023 12:36:00.76 [4680:10172:0203/123600.761:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 03, 2023 13:31:52.67 NEW SESSION
+Feb 03, 2023 13:31:52.67 [12676:6940:0203/133152.666:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 03, 2023 13:37:04.78 [12676:10960:0203/133704.783:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 03, 2023 13:44:55.51 [12676:10472:0203/134455.519:ERROR:device_event_log_impl.cc(215)] [13:44:55.518] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Feb 04, 2023 10:45:47.60 NEW SESSION
+Feb 04, 2023 10:45:47.60 [5812:4556:0204/104547.595:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 11:03:37.69 [9004:1492:0204/110337.690:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 11:28:25.64 [4652:12604:0204/112825.641:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 11:29:05.22 [4652:7972:0204/112905.226:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 11:29:28.57 [4652:7972:0204/112928.574:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 11:30:25.41 [4652:7972:0204/113025.411:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 11:32:01.00 [4652:7972:0204/113201.004:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 11:34:43.43 [4652:7972:0204/113443.433:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 11:55:30.09 [12868:6744:0204/115530.096:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 11:58:44.88 [8800:4056:0204/115844.885:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 12:17:54.69 [6072:8312:0204/121754.692:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 12:21:05.32 [9536:8928:0204/122105.322:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 12:43:14.95 [11996:6024:0204/124314.957:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 13:10:26.80 [884:760:0204/131026.808:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 13:10:45.81 [884:760:0204/131045.814:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 13:11:20.83 [884:760:0204/131120.832:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 04, 2023 13:11:21.47 [884:2196:0204/131121.477:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 13:18:14.32 [884:760:0204/131814.323:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 13:18:36.23 [884:760:0204/131836.235:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 13:19:27.78 [884:760:0204/131927.782:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2023 13:33:19.40 [4124:7956:0204/133319.402:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 04, 2023 13:34:39.29 [4124:7056:0204/133439.290:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 04, 2023 13:34:41.04 [4124:7056:0204/133441.045:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 06, 2023 12:13:24.19 NEW SESSION
+Feb 06, 2023 12:13:24.19 [560:13156:0206/121324.190:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2023 12:13:53.33 [560:13156:0206/121353.332:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2023 12:14:18.90 [560:11204:0206/121418.908:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 06, 2023 12:14:36.40 [560:13156:0206/121436.405:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2023 12:16:18.09 [560:13156:0206/121618.091:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2023 12:19:01.56 [560:13156:0206/121901.561:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2023 12:24:33.44 [560:13156:0206/122433.441:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 07, 2023 13:39:25.00 NEW SESSION
+Feb 07, 2023 13:39:25.00 [2740:9796:0207/133925.004:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 07, 2023 14:03:01.44 [2740:6332:0207/140301.440:ERROR:device_event_log_impl.cc(215)] [14:03:01.439] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

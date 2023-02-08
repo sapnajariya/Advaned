@@ -1,0 +1,34 @@
+package in.co.rays.ctl;
+
+public class FrontCtl implements Filter {
+
+	public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain)
+			throws IOException, ServletException {
+
+		HttpServletRequest request = (HttpServletRequest) req;
+		HttpServletResponse response = (HttpServletResponse) resp;
+		HttpSession session = request.getSession();
+
+		if (session.getAttribute("user") == null) {
+			request.setAttribute("message", " Your Session has been Expired... Please Login Again");
+
+			// Set the URI
+			String str = request.getRequestURI();
+			session.setAttribute("uri", str);
+
+			ServletUtility.forward(ORSView.LOGIN_VIEW, request, response);
+			return;
+		} else {
+			chain.doFilter(req, resp);
+		}
+	}
+
+	
+	public void init(FilterConfig conf) throws ServletException {
+	
+	}
+
+	public void destroy() {
+	}
+
+}

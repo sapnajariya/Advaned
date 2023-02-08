@@ -1,0 +1,6 @@
+127.0.0.1 - - [07/Feb/2023:13:38:22 -0800] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Feb/2023:13:38:27 -0800] "GET /mvcproject/Registration.jsp HTTP/1.1" 200 1689
+0:0:0:0:0:0:0:1 - - [07/Feb/2023:13:38:28 -0800] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Feb/2023:13:39:17 -0800] "GET /mvcproject/Registrration.jsp HTTP/1.1" 404 425
+0:0:0:0:0:0:0:1 - - [07/Feb/2023:13:41:04 -0800] "GET /mvcproject/Registration.jsp HTTP/1.1" 200 1689
+0:0:0:0:0:0:0:1 - - [07/Feb/2023:13:41:21 -0800] "GET /mvcproject/Registratioon.jsp HTTP/1.1" 404 425

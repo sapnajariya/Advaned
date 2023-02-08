@@ -1,0 +1,14 @@
+package in.co.rays.ctl;
+
+import java.io.IOException;
+import java.sql.SQLException;
+import java.util.logging.Logger;
+
+public class Example {
+static Logger log=Logger.getLogger(Example.class.getName());
+	public static void main(String[] args) throws IOException,SQLException{
+		log.debug("this is debug level");
+
+	}
+
+}

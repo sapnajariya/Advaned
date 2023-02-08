@@ -1,0 +1,59 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+table{
+height:200px;
+width:400px;
+border:1px solid black;
+background-color:pink;
+margin-top:20px;
+}
+input[type=text]{
+width:200px;
+height:30px;
+}
+</style>
+</head>
+<body>
+<%String err=(String)request.getAttribute("err");
+%>
+<%if(err!=null){ %>
+<%=err %>
+<%} %>
+<%@include file="header.jsp" %>
+<center>
+
+<form action="user" method="post">
+<table>
+<tr>
+<th>FirstName</th><td><input type="text" name="fname" placeholder="Enter your name"></td>
+</tr>
+<tr>
+<th>LastName</th><td><input type="text" name="lname" placeholder="Enter your  Last name"></td>
+</tr>
+<tr>
+<th>Email</th><td><input type="text" name="email" placeholder="Enter your Email"></td>
+</tr>
+<tr>
+<th>Password</th><td><input type="password" name="psw" placeholder="Enter your Password"></td>
+</tr>
+
+
+<tr>
+<th></th><td><input type="submit" Value="Add" name="opration" ></td>
+<td><input type="submit" Value="Delete" name="opration"></a></td>
+<td><input type="submit" Value="Update" name="opration" ></td>
+</tr>
+</table>
+</form>
+
+</center>
+<%@include file="footer.jsp" %>
+</body>
+</html>

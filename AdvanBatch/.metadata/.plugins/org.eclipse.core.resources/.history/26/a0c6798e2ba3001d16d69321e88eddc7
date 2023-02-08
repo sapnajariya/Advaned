@@ -1,0 +1,20 @@
+package in.co.rays.ctl;
+
+import java.io.IOException;
+import java.sql.SQLException;
+import java.util.logging.Logger;
+
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.LogManager;
+
+public class Example {
+	  
+	 public static void main(String[] args) { 
+		 final org.apache.log4j.Logger logger = LogManager.getLogger(Example.class.getName());
+	  // basic log4j configurator  
+	  BasicConfigurator.configure();  
+	  logger.info("Hello world");  
+	  logger.info("we are in logger info mode");  
+	   
+	 }  
+}

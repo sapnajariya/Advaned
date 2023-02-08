@@ -1,0 +1,103 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+
+
+
+</style>
+</head>
+<body>
+
+	<%@include file="header.jsp"%>
+	<%
+		String err = (String) request.getAttribute("err");
+	%>
+<%=err %>
+	<%
+		String err1 = (String) request.getAttribute("err1");
+	%>
+	
+	<%
+		String err2 = (String) request.getAttribute("err2");
+	%>
+	
+	<%
+		String err3 = (String) request.getAttribute("err3");
+	%>
+	
+		
+	
+	<center>
+
+		<form action="user" method="post">
+			<table>
+				<tr>
+					<th>FirstName</th>
+					<td><input type="text" name="fname"
+						placeholder="Enter your name"></td>
+					<%-- <%if(err!=null){ %>
+<td font="color:red"><%=err%>
+<%}%></td> --%> 
+					<td style="color: red">
+						<%
+							if (err != null) {
+						%> <%=err%></td>
+					<%
+						}
+					%></td> 
+				</tr>
+				<tr>
+					<th>LastName</th>
+					<td><input type="text" name="lname"
+						placeholder="Enter your  Last name"></td><td style="color: red">
+						<%
+							if (err1!= null) {
+						%> <%=err1%></td>
+					<%
+						}
+					%></td>
+				</tr>
+				<tr>
+					<th>Email</th>
+					<td><input type="text" name="email"
+						placeholder="Enter your Email"></td>
+				<td style="color: red">
+						<%
+							if (err2 != null) {
+						%> <%=err2%></td>
+					<%
+						}
+					%></td>
+				</tr>
+				<tr>
+					<th>Password</th>
+					<td><input type="password" name="psw"
+						placeholder="Enter your Password"></td>
+						<td style="color: red">
+						<%
+							if (err3!= null) {
+						%> <%=err3%></td>
+					<%
+						}
+					%></td>
+				</tr>
+
+
+				<tr>
+					<th></th>
+					<td><input type="submit" Value="Add" name="opration"></td>
+					
+				</tr>
+			</table>
+		</form>
+
+	</center>
+	<%@include file="footer.jsp"%>
+</body>
+</html>
